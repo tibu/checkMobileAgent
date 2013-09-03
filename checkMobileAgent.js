@@ -1,5 +1,6 @@
 function checkMobileAgent() {
 	// check and return mobile agent
+	// https://github.com/tibu/checkMobileAgent
 	var MobileAgent = "(not-detected)";
 	var Device = {};
 	Device.Name = "(not set)";
