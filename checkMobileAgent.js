@@ -1,4 +1,3 @@
-```javascript
 function checkMobileAgent() {
 	// check and return mobile agent
 	var MobileAgent = "(not-detected)";
@@ -58,4 +57,3 @@ function checkMobileAgent() {
 	}	
 	return MobileAgent;
 }
-```
